@@ -1,0 +1,12 @@
+# Ignore binaries
+*.exe
+*.o
+*.obj
+*.out
+*.bin
+
+# Ignore JSON
+*.json
+
+# Ignore VSCode configs
+.vscode/
